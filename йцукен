@@ -1,0 +1,7 @@
+getgenv().WebhookURL = "" --If not used do not write anything
+getgenv().AutoFarm = true
+loadstring(game:HttpGet("https://raw.githubusercontent.com/caomod2077/Script/refs/heads/main/Farm%20Diamond%20v2.lua"))() 
+
+
+
+https://delta-executor.com/?utm_source=chatgpt.com
